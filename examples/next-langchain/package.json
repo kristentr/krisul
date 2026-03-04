@@ -12,9 +12,9 @@
     "@ai-sdk/react": "3.0.0-beta.121",
     "@ai-sdk/langchain": "2.0.0-beta.121",
     "@langchain/openai": "0.0.28",
-    "@langchain/core": "0.1.63",
+    "@langchain/core": "0.3.80",
     "ai": "6.0.0-beta.121",
-    "langchain": "0.1.36",
+    "langchain": "1.2.29",
     "next": "^15.5.4",
     "react": "^18",
     "react-dom": "^18"
